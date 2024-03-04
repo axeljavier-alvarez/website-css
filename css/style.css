@@ -1,0 +1,376 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #000000;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='30' viewBox='0 0 1000 120'%3E%3Cg fill='none' stroke='%23222' stroke-width='10' stroke-opacity='0.85'%3E%3Cpath d='M-500 75c0 0 125-30 250-30S0 75 0 75s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 45c0 0 125-30 250-30S0 45 0 45s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 105c0 0 125-30 250-30S0 105 0 105s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 15c0 0 125-30 250-30S0 15 0 15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500-15c0 0 125-30 250-30S0-15 0-15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 135c0 0 125-30 250-30S0 135 0 135s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3C/g%3E%3C/svg%3E");
+}
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+
+  .active {
+    background-color: #F7B804;
+  }
+
+
+  footer {
+    background-color: black;
+    color: #F7B804;
+    text-align: right;
+    font-size: 25px;
+}
+
+
+.text-justify {
+    text-align: justify;
+    font-size: 20px;
+    color: white;
+}
+
+.text-justify2 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+
+.titulo1 {
+    color: #F7B804;
+    font-size: 35px;
+    text-align: center;
+}
+
+.titulo2 {
+    color:chartreuse;
+    text-align: center;
+}
+
+.titulo3 {
+
+    color:aqua;
+    text-align: center;  
+}
+.tabla1 {
+    margin: auto;
+}
+
+.tabla2 {
+    margin: auto;
+}
+
+.tabla3 {
+    margin: auto;
+}
+
+/* CONFIGURAR CELDAS DE LA TABLA */
+.celda1 {
+    width: 375px;
+    height: 30px;
+}
+
+.celda2 {
+    width: 450px;
+    height: 30px;
+}
+
+.celda3 {
+    width: 300px;
+    height: 60px;
+    color: #F25806;
+    text-align: center;
+    font-size: 25px;
+}
+
+.celda4 {
+    width: 300px;
+    height: 60px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 30px;
+
+}
+
+.celda5 {
+    width: 300px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 30px;
+
+}
+
+.celda6 {
+    width: 900px;
+    height: 60px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
+
+/* (maxwidth:
+display: block */
+.celda7 {
+    width: 300px;
+    height: 60px;
+    color: aqua;
+    text-align: center;
+    font-size: 25px;
+}
+
+.celda8 {
+    width: 250px;
+    height: 60px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.celda9 {
+    width: 540px;
+    height: 60px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.celda10 {
+    width: 900px;
+    height: 60px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+
+.celda11 {
+    width: 300px;
+    height: 60px;
+    color: #C7ECEE;
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 30px;
+
+}
+
+.celda12 {
+    color: #F25806;
+    font-size: 20px;
+}
+
+.celda13 { 
+    color: aqua;
+    font-size: 20px;
+}
+
+.celda14 {
+    width: 600px;
+    height: 30px;
+}
+
+.titulosconfig {
+    color: #F25806;
+    font-weight: bold;
+}
+
+/* CONFIGURACION DE IMAGENES*/ 
+.imagencss {
+    width: 400px;
+    height: 375px;
+    margin-right: 30px;
+}
+
+.imagentipo1 {
+    width: 450px;
+    height: 290px;
+    margin-right: 50px;
+}
+
+.imagentipo2 {
+    width: 450px;
+    height: 290px;
+    margin-right: 50px;
+}
+
+.imagentipo3 {
+    width: 450px;
+    height: 290px;
+}
+
+.estilo4 {
+    width: 400px;
+    height: 200px;
+    margin-right: 15px;
+    
+}
+
+.estilo5 {
+    width: 350px;
+    height: 200px;
+    margin-right: 15px;
+}
+
+.imagentipo3 {
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.imagentipo4 {
+    width: 320px;
+    height: 175px;
+    margin-left: 10px;
+}
+
+.imagentipo5 {
+    width: 340px;
+    height: 175px;
+    margin-left: 10px;
+}
+
+.imagentipo6 {
+    width: 225px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+.imagentipo7 {
+    width: 375px;
+    height: 210px;
+    margin-right: 10px;
+
+}
+
+.imagentext{
+    width: 290px;
+    height: 250px;
+    margin-right: 15px;
+}
+
+.textshaw{
+    width: 500px;
+    height: 250px;
+}
+
+.backimage{
+    width: 350px;
+    height: 230px;
+    margin-right: 10px;
+
+}
+
+.backgrou{
+    width: 440px;
+    height: 250px;
+}
+
+.backimage2{
+    width: 370px;
+    height: 280px;
+    margin-right: 20px;
+}
+
+.backimage3{
+    width: 370px;
+    height: 240px;
+    margin-right: 20px;
+}
+
+.backgrou2{
+    width: 380px;
+    height: 260px;
+}
+
+/* ASIDE */
+.asideimagen{
+    width: 17%;
+    transition: ease 0.3s;
+    float: right;
+    
+}
+
+.asideimagen:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+/* */
+.boxsh{
+    width: 350px;
+    height: 230px;
+    margin-right: 15px;
+}
+
+.borde1 {
+    width: 975px;
+    height: 75px;
+}
+
+.borde2 {
+    width: 975px;
+    height: 125px; 
+}
+
+.borde3 {
+    width: 975px;
+    height: 90px;
+}
+.configb1 {
+    width: 350px;
+    height: 75px;
+}
+
+.configb2 {
+    width: 350px;
+    height: 175px;
+}
+
+.configb3 {
+    width: 210px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.font1 {
+    color: #F7B804;
+}
+/* ASPECTOS GENERALES*/
+table {
+    margin: auto;
+    border-collapse: collapse;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+code pre{
+    width: 100%;
+    background-color: white;
+    border: 1px solid black;
+} 
