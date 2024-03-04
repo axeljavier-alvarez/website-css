@@ -10,7 +10,15 @@ Project done in INTECAP part of the full stack development course, the project i
 http://axjavierjavier.000.pe/cssintroduccion/
 
 ## Developed with
-<p align=left>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="228" title="hover text">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="190" height="220" title="hover text">
-</p>
+<table margin: auto>
+  <tr>
+    <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="228" title="hover text">
+
+    </td>
+    <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="190" height="220" title="hover text">
+    </td>
+  </tr>
+</table>
+
