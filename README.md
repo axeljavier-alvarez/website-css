@@ -11,8 +11,7 @@ http://axjavierjavier.000.pe/cssintroduccion/
 
 ## Developed with
 <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="198" title="hover text">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="150" height="190" title="hover text">
+        <img src="https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1" width="198" title="hover text">
 </p>
 
 
